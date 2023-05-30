@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web3.0 , Blockchain**
 
-- 👯 I’m looking to collaborate on [ICSA Organization](https://github.com/AbdulAhad-codinghub/icsa_organization)
+- 👯 I’m looking to collaborate on [ICSA Organization]
 
 - 👨‍💻 All of my projects are available at [https://hammadhameed956-protfolio.netlify.app/](https://hammadhameed956-protfolio.netlify.app/)
 
