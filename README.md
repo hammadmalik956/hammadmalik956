@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadmalik956&label=Profile%20views&color=0e75b6&style=flat" alt="hammadmalik956" /> </p>
 
-- 🔭 I’m currently working on [Shoesnco Ecommerce](https://shoesndcoo.vercel.app/)
+- 🔭 I’m currently working on [liqueous](https://liqueous.logixsy.com/)
 
 - 🌱 I’m currently learning **Web3.0 , Blockchain**
 
